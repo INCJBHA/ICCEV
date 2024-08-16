@@ -3,7 +3,7 @@
 ICC EV 프로젝트
 
 ### 서비스 URL
-https://a-fa.luftaquila.io/weight
+https://iccev.github.io/ICCEV
 
 1. 가정용 체중계 4개를 개조하여 체중계의 로드셀 신호를 HX711 증폭기로 입력합니다.
 2. 아두이노가 증폭된 로드셀 신호를 읽어 차량의 각 바퀴에서의 무게를 측정합니다.
