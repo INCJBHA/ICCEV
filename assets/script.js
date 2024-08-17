@@ -169,7 +169,7 @@ const graph = new Chart(document.getElementById("graph"), {
     }
   }
 });
-
+  
 $("#help").click(function() {
   Swal.fire({
     icon: 'info',

@@ -64,6 +64,10 @@ body {
   margin: 0;
 }
 
+#nano object {
+  transform: rotate();
+}
+
 #connect {
   font-family: 'Nanum Gothic', sans-serif;
   font-weight: inherit;
@@ -119,7 +123,7 @@ div.measure_container {
 }
 
 #RL {
-  top: 34vw;
+  top: 30vw;
   right: 45.5vw;
 }
 
